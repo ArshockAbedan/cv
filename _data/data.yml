@@ -51,7 +51,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Aref has more than 10 years of experience with software architecture, design, and development on a variety of platforms, including .Net, Java, Android, and iOS.
+      Aref has more than 10 years of experience with software architecture, design,
+      and development on a variety of platforms, including .Net, Java, Android, and iOS.
 education:
     - degree: MSc in Computer Science
       university: Ontario Tech University
