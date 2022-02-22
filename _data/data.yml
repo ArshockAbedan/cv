@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: arefabedjooy@gmail.com
-    phone: 012 345 6789
+    phone: +1 (647)606-4981
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: arshockabedan.github.io/online-cv/ #do not add http://
     linkedin: arefabedjooy
     xing: alandoe
     github: ArshockAbedan
@@ -29,23 +29,20 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Farsi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Futsal
         link:
 
-      - item: Snowboarding
+      - item: Chess
         link:
 
-      - item: Cooking
+      - item: Soccer
         link:
 
 career-profile:
